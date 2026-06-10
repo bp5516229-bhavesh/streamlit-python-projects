@@ -2,7 +2,7 @@
 import streamlit as st
 
 # 2. Add a title to your app
-st.title("My First Streamlit App created by PRAKASH SENAPATI")
+st.title("My First Streamlit App created by Bhavesh Patil")
 
 # 3. Add some text
 st.write("Welcome! This app calculates the square of a number.")
